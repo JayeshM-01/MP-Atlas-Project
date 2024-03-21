@@ -2,9 +2,9 @@ import React from 'react'
 
 export const Overview = () =>{
     return(
-        <div className='p-5 mb-12 m-4 mx-12 border-2 border-white shadow'>
-            <h1 className='font-bold text-2xl'>Overview of Madhya Pradesh</h1>
-            <p class="text-emerald-600 text-lg">
+        <div className='w-[80%] p-6 m-16 mx-auto border-2 shadow-lg rounded-lg  '>
+            <h1 className='font-bold text-4xl pb-4 text-indigo-900'>Overview of Madhya Pradesh</h1>
+            <p class="font-semibold text-emerald-600 text-2xl text-justify w-[80%] mx-auto ">
                 Madhya Pradesh is resplendent with the hill ranges of the
                 Vindhyas and the Satpuras. Its natural settings beautified
                 by hills, forests, rivers, rich heritages, exciting wild life and
