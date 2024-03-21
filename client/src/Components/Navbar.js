@@ -29,71 +29,24 @@ const Navbar= ()=> {
               fill="none"
               
             >
-                
-           
        
             </img>
-{/* 
-            <img src={Logo}   ></img> */}
+
             
-            <span class="ml-2 text-xl font-bold tracking-wide text-gray-100 uppercase">
+            <div class="  text-1xl md:text-2xl lg:text-4xl font-bold tracking-wide text-gray-100 uppercase ml-4">
               IIT INDORE
-            </span>
+            </div>
           </a>
-          <ul class="flex items-center hidden space-x-8 lg:flex">
-            <li>
-              <a
+
+          <a
                 href="/"
-                aria-label="Our product"
-                title="Our product"
-                class="font-medium tracking-wide text-gray-100 transition-colors duration-200 hover:text-teal-accent-400"
+                class="font-medium tracking-wide text-gray-100 transition-colors duration-200 hover:text-teal-accent-400
+                 text-xl md:text-2xl lg:text-4xl lg:mr-40 xl:mr-64
+                "
               >
-                Product
+                Madhya Pradesh Atlas Project
               </a>
-            </li>
-            <li>
-              <a
-                href="/"
-                aria-label="Our product"
-                title="Our product"
-                class="font-medium tracking-wide text-gray-100 transition-colors duration-200 hover:text-teal-accent-400"
-              >
-                Features
-              </a>
-            </li>
-            <li>
-              <a
-                href="/"
-                aria-label="Product pricing"
-                title="Product pricing"
-                class="font-medium tracking-wide text-gray-100 transition-colors duration-200 hover:text-teal-accent-400"
-              >
-                Pricing
-              </a>
-            </li>
-            <li>
-              <a
-                href="/"
-                aria-label="About us"
-                title="About us"
-                class="font-medium tracking-wide text-gray-100 transition-colors duration-200 hover:text-teal-accent-400"
-              >
-                About us
-              </a>
-            </li>
-          </ul>
-          <ul class="flex items-center hidden space-x-8 lg:flex">
-            <li>
-              <a
-                href="/"
-                class="inline-flex items-center justify-center h-12 px-6 font-medium tracking-wide text-white transition duration-200 rounded shadow-md bg-deep-purple-accent-400 hover:bg-deep-purple-accent-700 focus:shadow-outline focus:outline-none"
-                aria-label="Sign up"
-                title="Sign up"
-              >
-                
-              </a>
-            </li>
-          </ul>
+        
           <div class="lg:hidden">
             <button
               aria-label="Open Menu"
