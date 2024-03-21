@@ -15,7 +15,7 @@ return(
       District Websites of Madhya Pradesh are powered by S3WaaS Framework of NIC, MeitY in collaboration with District Administration and IT Department, Govt. of Madhya Pradesh
     </p>
 
-    <p class="footer-company-name text-gray-300 mt-8 lg:mt-12 text-sm lg:text-base">© 2021 All rights reserved by State Administration</p>
+    <p class="footer-company-name text-gray-300 mt-8 lg:mt-12 text-sm lg:text-base">© All rights reserved by State Administration</p>
   </div>
 
   <div class="footer-center lg:w-1/4 flex flex-col items-center lg:items-start mt-8 lg:mt-0">
