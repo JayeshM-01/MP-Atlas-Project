@@ -17,6 +17,11 @@ export const Overview = () =>{
 
                 Madhya Pradesh has 52 districts with a total geographical
                 2 area of 3,08,000 km and a population of 7.27 crore.
+
+                In 1 census of water bodies, 82,643 water bodies
+have been enumerated in the State of Madhya
+Pradesh, out of which 98% (81,012) are in rural
+areas and the remaining 2% (1,631) are in urban areas.Majority of the water bodies are ponds.
             </p>
         </div>
     )
