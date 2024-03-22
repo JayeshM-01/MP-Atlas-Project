@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/MP-Atlas-Project-Web/static/css/main.aedfedca.css",
+    "main.js": "/MP-Atlas-Project-Web/static/js/main.849c42b3.js",
+    "static/media/gwal.png": "/MP-Atlas-Project-Web/static/media/gwal.a521091c3cc4bd336715.png",
+    "static/media/fort.png": "/MP-Atlas-Project-Web/static/media/fort.ad29c0a32536f000867a.png",
+    "static/media/stupa.png": "/MP-Atlas-Project-Web/static/media/stupa.4935dd871b46a69d7cd9.png",
+    "static/media/om.png": "/MP-Atlas-Project-Web/static/media/om.daf1824969bc6dd3c58d.png",
+    "static/media/iitilogo.jpg": "/MP-Atlas-Project-Web/static/media/iitilogo.3ed88fd2abf5108d3c2e.jpg",
+    "index.html": "/MP-Atlas-Project-Web/index.html",
+    "main.aedfedca.css.map": "/MP-Atlas-Project-Web/static/css/main.aedfedca.css.map",
+    "main.849c42b3.js.map": "/MP-Atlas-Project-Web/static/js/main.849c42b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aedfedca.css",
+    "static/js/main.849c42b3.js"
+  ]
+}
