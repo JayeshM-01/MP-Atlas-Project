@@ -1,4 +1,8 @@
 import React from 'react';
+import Stupa from "../Components/images/stupa.png";
+import Fort from "../Components/images/fort.png";
+import Gwal from "../Components/images/gwal.png";
+import Om from "../Components/images/om.png";
 
 
 //   const [currentIndex, setCurrentIndex] = useState(1);
@@ -84,16 +88,15 @@ import Carousel from "./Carousel";
 
 export default function Slider(){
   const images = [
-    'https://media.istockphoto.com/id/481494314/photo/gwalior-fort.jpg?s=1024x1024&w=is&k=20&c=ORh_QUd1dVomDuXRdMcFhiqeBsPLC8N3dy9gH-cGwj4=',
-    'https://source.unsplash.com/1600x900/?cat',
-    'https://source.unsplash.com/1600x900/?dog',
-    'https://source.unsplash.com/1600x900/?lego',
-    'https://source.unsplash.com/1600x900/?textures&patterns'
+    Fort,
+     Stupa,
+    Gwal,
+    Om
   ];
 
   return (
-    <div className=" mx-auto w-full h-[42rem] overflow-hidden">
-      <Carousel images={images} />
+    <div className=" mx-auto w-full h-[620px] overflow-hidden bg-cover">
+      <Carousel images={images}/>
     </div>
   );
 };
